@@ -89,7 +89,7 @@ Other Experiences
 
 **Shelter Associates** Pune, India | 2013 |
 
-*Produced short film['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1) promoting a city-wide approach to slum rehabilitation*  
+*Volunteer Consultant - Produced short film['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1) promoting a city-wide approach to slum rehabilitation*  
 
 **Founder of Secret Kitchens** | 2014 to present |
 *[Secret Kitchens](http://secretkitchens.strikingly.com/) is an experimental project with a social mission to eradicate lonely meals by connecting talented home chefs to curious diners*   
