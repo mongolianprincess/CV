@@ -1,51 +1,46 @@
 Amy Yang
 ===========
 
-**Available for work as a Junior Developer in London, UK**
+**Available for work full time as a Junior Developer in London, UK**
 
-Curious and resourceful problem-solver with an articulated eye for design and passion for mapping and data visualization.  
+Inquisitive and highly adaptable problem-solver with an articulated eye for design details and passionate for end user experience and building all things beautiful.  
 
-Trained as an architect with eight years of design and project management experience across three continents, I fell in love with the magic of code to turn ideas into scalable solutions that are accessible to all. Recently completed a 12 weeks coding bootcamp at Makers Academy in London UK. 
+Trained as an architect with 8 years of design and project management experience across 3 continents, I fell in love with the power of code to turn ideas into scalable solutions that can transform people's lives.  
 
-Currently seeking full time opportunity as a junior developer to further my professional growth with a focus on TDD/BDD, software software craftmanship to contribute to a team who values collaboration and innovation. 
+This led me to complete a 12 weeks coding bootcamp at Makers Academy. 
 
-## Skills
+I am seeking opportunity as a junior developer to continue learning (and playing ping pong) with a focus on TDD/BDD and software craftmanship.  I am eager to share my fresh perspective and contribute to a dynamic team that values collaboration and innovation. 
+
+#### Code Samples
+
+**Internet of Things** | Built [Just Ballz](https://github.com/mongolianprincess/just_ballz), a native app for my final project at Makers Academy that allows user to control the movement of a robotic Sphero ball with hand gestures using Leap Motion device.  Built in Javascript with Angular front end and packaged in node webkit.
+
+**Mobile** | Beveloped [So far](https://github.com/mongolianprincess/soSafe), a mobile app that sends and receives safety request/ confirmation to loved ones at times of distress. Writtne in Javascript and built on Ionic framework with front end in Angular.js in Javascript Firebase. 
+
+**Javascript** | Completed [bowling challenge](https://github.com/mongolianprincess/bowling-challenge) that records scores of a 10 pin bowling game. Super proud of 100% test coverage in Jasmine. 
 
 
 Technical Skills and Technologies
 ---------------------------------
 | |Strong|Know|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Ruby, Javascript|CSS3, HTML5, jQuery|IO, Coffeescript, Python, Java|
-|Databases/ORMS|PostGresQL, DataMapper|ActiveRecord, MongoDB|                 |
-|Frameworks|Sinatra, Ruby on Rails, AngularJS|Node.js, Express.js|                       |
-|Testing|RSpec, Jasmine, Capybara|Cucumber, FactoryGirl, Karma, Protractor|Zombie, Poltergeist|
+|Languages|Ruby, Javascript|CSS3, HTML5, jQuery|Cylon.js|
+|Databases/ORMS|PostGresQL, DataMapper|ActiveRecord|Firebase|                 |
+|Frameworks|Sinatra, Ruby on Rails, AngularJS|Ionic, Node.js, Express.js|                       |
+|Testing|RSpec, Jasmine, Capybara|Karma, Protractor|Phantom.js|
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
-
-#### Ruby
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Javascript 
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Project Management
 
+While at Kearns Mancini Architects, I completed the interior fit-out of four [Bank of Montreal bank branches](http://kmai.com/projects/bank-of-montreal-250-yonge-street-office) from design conception to project completion, leading a consultant team of structural, mechanical and electrical engineers.  
 
-#### Design
+#### Design 
+
+Experience in visual design and manual drafting, Adobe creative suite, 2D/3D visualisation softwares including AutoCad, Revit, Vectorworks and Sketchup. 
 
 
-## Education
+Education
+---------
 
 #### Makers Academy (October 2015 to January 2016)
 
@@ -61,42 +56,47 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Master's in Architecture (2007-2009)
 - Bachelor of Architecture (2001-2006)
 
-- Graduated with honours with thesis titled "A PORTRAIT OF PORTA PORTESE" that investigated an informally self-organized street market, Porta Portese, in Rome, Italy where spatial, social and cultural dynamics in the fabrication of this informal street market is mapped out and studied as an event architecture of the city.   
+- Master thesis titled ["A PORTRAIT OF PORTA PORTESE"](https://uwspace.uwaterloo.ca/handle/10012/4361?show=full) that investigated an informally self-organized street market, Porta Portese, in Rome, Italy where spatial, social and cultural dynamics of this informal street market is mapped out as an event architecture of the city
 
-#### Any other qualifications
 
-## Work Experience
+Work Experience
+----------------
 
-**Fletcher Priest Architects** London, UK (2005 to 2006 | 2013 - 2015)    
-*Project Architect*  
+**Fletcher Priest Architects** London, UK | 2005 to 2006 | 2013 - 2015 |    
+*Project Architect * - Dixon House, 14 million 6000sqm office development in the city of London. Organized office Pecha Kucha talks 
 
-**Kearns Mancini Architects** Toronto, Canada(2010 to 2012)   
-*Project Architect*  
+**Kearns Mancini Architects** Toronto, Canada | 2010 to 2012 |   
+*Project Architect - Completed of four Bank of Montreal retail branches*  
 
-**Adamson Association** Toronto, Canada (2010)   
-*Design Architect* 
-
-**Bregman + Hamann Architects** Shanghai, China (2004)   
+**Adamson Association** Toronto, Canada | 2010 |
 *Architectural Designer* 
 
-**John Sergio Fisher & Associates** Los Angeles, USA (2003)   
-*Architectural Designer* 
+**Bregman + Hamann Architects** Shanghai, China | 2004 |   
+*Architectural Designer * - Coordination team for Tower Three of World Trade Centre in New York
 
-## Other Experience
+**John Sergio Fisher & Associates** Los Angeles, USA | 2003 |   
+*Architectural Designer* - Masterplanning in Chongqing, China
 
-**Educating Reena Project** Malawi (2015)
+Other Experiences
+-----------------
+
+**Educating Reena Project** Malawi | November 2015 - Present|
+
 *Volunteer project coordinator on behalf of Climate Connected Benefit Society for the campaign that helps secondary school girls get education in flood prone areas of southern Malawi*
 
-**Shelter Associates** Pune, India (2013 August to 2013 December)    
-*Produced short film ‘Shelter Associates: Inclusive Planning for the 
-  Urban Poor’ promoting a city-wide approach to slum rehabilitation
-  http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1*  
+**Shelter Associates** Pune, India | 2013 |
 
-**Founder of Secret Kitchens** (2014 to present) 
-* Secret Kitchens is an experimental project with a social mission to eradicate lonely meals and promote local communities by connecting talented home chefs to curious diners.  
+*Produced short film['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1) promoting a city-wide approach to slum rehabilitation*  
 
-Website: http://secretkitchens.strikingly.com/*
+**Founder of Secret Kitchens** (2014 to present)
+*[Secret Kitchens](http://secretkitchens.strikingly.com/) is an experimental project with a social mission to eradicate lonely meals by connecting talented home chefs to curious diners*   
 
 
-More about me 
----------------------------------
+Contact me 
+----------
+- email: ayc.yang@gmail.com
+- Twitter: @AycYang
+- [Blog](www.mongolianprincess.net)
+
+
+
