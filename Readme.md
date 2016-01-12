@@ -16,13 +16,13 @@ Skills
 
 #### Code Sample
 
-- **Internet of Things** | Built [*Just Ballz*](https://github.com/mongolianprincess/just_ballz), a native app for my final project at Makers Academy that allows user to control the movement of a robotic [Sphero](http://www.sphero.com/) with hand gestures using [Leap Motion](https://www.leapmotion.com/) device.  Built in Javascript/C+ with Angular.js/CSS3/HTML front end and packaged in node webkit for user to simply download the app to plug and play.
+- **Internet of Things** | Built [**Just Ballz**](https://github.com/mongolianprincess/just_ballz), a native app for my final project at Makers Academy that allows user to control the movement of a robotic [Sphero](http://www.sphero.com/) with hand gestures using [Leap Motion](https://www.leapmotion.com/) device.  Built in Javascript/C+ with Angular.js/CSS3/HTML front end and packaged in node webkit for user to simply download the app to plug and play.
 
-- **Mobile** | Beveloped [*So far*](https://github.com/mongolianprincess/soSafe), a mobile app that sends and receives safety request/ confirmation to loved ones at times of distress. Written in Javascript and built on Ionic framework with front end in Angular.js/CSS3/HTML and Firebase. 
+- **Mobile** | Beveloped [**So far**](https://github.com/mongolianprincess/soSafe), a mobile app that sends and receives safety request/ confirmation to loved ones at times of distress. Written in Javascript and built on Ionic framework with front end in Angular.js/CSS3/HTML and Firebase. 
 
-- **Javascript** | Completed [*Bowling challenge*](https://github.com/mongolianprincess/bowling-challenge) that records scores of a 10 pin bowling game. Super proud of 100% test coverage in Jasmine. 
+- **Javascript** | Completed [**Bowling challenge**](https://github.com/mongolianprincess/bowling-challenge) that records scores of a 10 pin bowling game. Super proud of 100% test coverage in Jasmine. 
 
-- **Ruby** | Completed [*Chitter challenge*](https://github.com/mongolianprincess/chitter-challenge)that allows user to post message to the public. Fully tested in Rspec.
+- **Ruby** | Completed [**Chitter challenge**](https://github.com/mongolianprincess/chitter-challenge) that allows user to post message to the public. Fully tested in Rspec.
 
 #### Technical Skills and Technologies
 
@@ -97,7 +97,7 @@ Other Experiences
 
 Contact me 
 ----------
-- email: ayc.yang@gmail.com
+- Email: ayc.yang@gmail.com
 - Twitter: @AycYang
 - [Blog](www.mongolianprincess.net)
 
