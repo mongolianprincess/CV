@@ -3,25 +3,29 @@ Amy Yang
 
 **Available for work full time as a Junior Developer in London, UK**
 
-Inquisitive and highly adaptable problem-solver with an articulated eye for design details and passionate for end user experience and building all things beautiful.  
+Inquisitive and resourceful problem-solver with an articulated eye for details and passion for end user experience and building all things beautiful.  
 
 Trained as an architect with 8 years of design and project management experience across 3 continents, I fell in love with the power of code to turn ideas into scalable solutions that can transform people's lives.  
 
 This led me to complete a 12 weeks coding bootcamp at Makers Academy. 
 
-I am seeking opportunity as a junior developer to continue learning (and playing ping pong) with a focus on TDD/BDD and software craftmanship.  I am eager to share my fresh perspective and contribute to a dynamic team that values collaboration and innovation. 
+I am seeking opportunity as a junior developer to continue learning (and playing ping pong) with a focus on TDD/BDD and software craftmanship.  Eager to share my fresh perspective and contribute to a dynamic team that values collaboration and innovation. 
 
-#### Code Samples
+Skills
+------
 
-**Internet of Things** | Built [Just Ballz](https://github.com/mongolianprincess/just_ballz), a native app for my final project at Makers Academy that allows user to control the movement of a robotic Sphero ball with hand gestures using Leap Motion device.  Built in Javascript with Angular front end and packaged in node webkit.
+#### Code Sample
 
-**Mobile** | Beveloped [So far](https://github.com/mongolianprincess/soSafe), a mobile app that sends and receives safety request/ confirmation to loved ones at times of distress. Writtne in Javascript and built on Ionic framework with front end in Angular.js in Javascript Firebase. 
+**Internet of Things** | Built [Just Ballz](https://github.com/mongolianprincess/just_ballz), a native app for my final project at Makers Academy that allows user to control the movement of a robotic [Sphero](http://www.sphero.com/) with hand gestures using [Leap Motion](https://www.leapmotion.com/) device.  Built in Javascript/C+ with Angular.js/CSS3/HTML front end and packaged in node webkit.
 
-**Javascript** | Completed [bowling challenge](https://github.com/mongolianprincess/bowling-challenge) that records scores of a 10 pin bowling game. Super proud of 100% test coverage in Jasmine. 
+**Mobile** | Beveloped [So far](https://github.com/mongolianprincess/soSafe), a mobile app that sends and receives safety request/ confirmation to loved ones at times of distress. Written in Javascript and built on Ionic framework with front end in Angular.js/CSS3/HTML and Firebase. 
 
+**Javascript** | Completed [Bowling challenge](https://github.com/mongolianprincess/bowling-challenge) that records scores of a 10 pin bowling game. Super proud of 100% test coverage in Jasmine. 
 
-Technical Skills and Technologies
----------------------------------
+**Ruby** | Completed [Chitter challenge](https://github.com/mongolianprincess/chitter-challenge)that allows user to post message to the public. Fully tested in Rspec.
+
+#### Technical Skills and Technologies
+
 | |Strong|Know|Touched on|
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, Javascript|CSS3, HTML5, jQuery|Cylon.js|
@@ -32,12 +36,11 @@ Technical Skills and Technologies
 
 #### Project Management
 
-While at Kearns Mancini Architects, I completed the interior fit-out of four [Bank of Montreal bank branches](http://kmai.com/projects/bank-of-montreal-250-yonge-street-office) from design conception to project completion, leading a consultant team of structural, mechanical and electrical engineers.  
+While at Kearns Mancini Architects, I completed the interior fit-out of four [Bank of Montreal branches](http://kmai.com/projects/bank-of-montreal-250-yonge-street-office) from design conception to project completion, leading consultant team coordination. 
 
-#### Design 
+#### Design & Storytelling
 
-Experience in visual design and manual drafting, Adobe creative suite, 2D/3D visualisation softwares including AutoCad, Revit, Vectorworks and Sketchup. 
-
+Experience in visual and narrative design, using softwares including Adobe Photoshop, Illustrator & Indesign; 2D/3D visualisation softwares including AutoCad, Revit, Vectorworks and Sketchup. Click [here](https://drive.google.com/file/d/0B2-rMJ4iqdtfVjlGZlhyOXowdHc/view?usp=sharing) to view a sample of design portfolio. 
 
 Education
 ---------
