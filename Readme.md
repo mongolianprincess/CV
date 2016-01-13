@@ -9,16 +9,16 @@ Trained as an architect with 8 years of design and project management experience
 
 This led me to complete a 12 weeks coding bootcamp at Makers Academy. 
 
-I am seeking opportunity as a junior developer to continue learning (and playing ping pong) with a focus on TDD/BDD and software craftmanship.  Eager to share my fresh perspective and contribute to a dynamic team that values collaboration and innovation. 
+I am seeking opportunity as a junior developer to continue learning (and playing ping pong) with a focus on TDD/BDD and software craftmanship.  Eager to share my fresh perspective and contribute to a dynamic team that values collaboration, innovation and open source development. 
 
 Skills
 ------
 
-#### Code Sample
+#### Web Developer
 
 - **Internet of Things** | Built [**Just Ballz**](https://github.com/mongolianprincess/just_ballz), a native app for my final project at Makers Academy that allows user to control the movement of a robotic [Sphero](http://www.sphero.com/) with hand gestures using [Leap Motion](https://www.leapmotion.com/) device.  Built in Javascript/C+ with Angular.js/CSS3/HTML front end and packaged in node webkit for user to simply download the app to plug and play.
 
-- **Mobile** | Beveloped [**So far**](https://github.com/mongolianprincess/soSafe), a mobile app that sends and receives safety request/ confirmation to loved ones at times of distress. Written in Javascript and built on Ionic framework with front end in Angular.js/CSS3/HTML and Firebase. 
+- **Mobile** | Developed [**So far**](https://github.com/mongolianprincess/soSafe), a mobile app that sends and receives safety request/ confirmation to loved ones at times of distress. Written in Javascript and built on Ionic framework with front end in Angular.js/CSS3/HTML and Firebase. 
 
 - **Javascript** | Completed [**Bowling challenge**](https://github.com/mongolianprincess/bowling-challenge) that records scores of a 10 pin bowling game. Super proud of 100% test coverage in Jasmine. 
 
@@ -36,11 +36,14 @@ Skills
 
 #### Project Management
 
-While at Kearns Mancini Architects, I completed the interior fit-out of four [Bank of Montreal retail branches](http://kmai.com/projects/bank-of-montreal-250-yonge-street-office) from design conception to project completion, leading consultant team coordination. 
+While at Kearns Mancini Architects, I completed the interior fit-out of four [Bank of Montreal retail branches](http://kmai.com/projects/bank-of-montreal-250-yonge-street-office) from design conception to project completion, leading consultant team coordination to meet client budget and deadline. 
 
 #### Design & Storytelling
 
-Experience in visual and narrative design using photography, Adobe Photoshop, Illustrator & Indesign; 2D/3D visualisation softwares including AutoCad, Revit, Vectorworks and Sketchup. Click [here](https://drive.google.com/file/d/0B2-rMJ4iqdtfVjlGZlhyOXowdHc/view?usp=sharing) to view a sample of design portfolio. 
+- Experience in visual and narrative design using photography, Adobe Photoshop, Illustrator & Indesign & video eiding softwares. 
+- Produced, shot and direct short film ['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1)
+- Illustrative marketing brochure on the history of Dixon House.
+- 2D/3D visualisation softwares including AutoCad, Revit, Vectorworks and Sketchup. Click [here](https://drive.google.com/file/d/0B2-rMJ4iqdtfVjlGZlhyOXowdHc/view?usp=sharing) to view a sample of design portfolio. 
 
 Education
 ---------
@@ -65,35 +68,34 @@ Education
 Work Experience
 ----------------
 
-**Fletcher Priest Architects** London, UK | 2005 to 2006 | 2013 - 2015 |    
-*Project Architect - 14 million 6000sqm office development, Dixon House, in the city of London. Organized office Pecha Kucha talks* 
+**Fletcher Priest Architects** | London, UK | 2005 to 2006 | 2013 - 2015 |    
+*Project Architect - Worked on 14 million 6000sqm office refurbishment, Dixon House, in the city of London. Organized office Pecha Kucha talks* 
 
-**Kearns Mancini Architects** Toronto, Canada | 2010 to 2012 |   
-*Project Architect - Completed interior out for four Bank of Montreal branches*  
+**Kearns Mancini Architects** | Toronto, Canada | 2010 to 2012 |   
+*Project Architect - Completed interior out for four Bank of Montreal branches in Greater Toronto*  
 
-**Adamson Association** Toronto, Canada | 2010 |
-*Architectural Designer* 
+**Adamson Association** | Toronto, Canada | 2010 |
+*Architectural Designer - Memeber of coordination team for Tower Three of World Trade Centre in New York* 
 
-**Bregman + Hamann Architects** Shanghai, China | 2004 |   
-*Architectural Designer - Coordination team for Tower Three of World Trade Centre in New York*
+**Bregman + Hamann Architects** | Shanghai, China | 2004 |   
+*Architectural Designer - Prepared design presentation and liased with Mandarin speaking clients & design agency*
 
-**John Sergio Fisher & Associates** Los Angeles, USA | 2003 |   
-*Architectural Designer - Masterplanning in Chongqing, China*
+**John Sergio Fisher & Associates** | Los Angeles, USA | 2003 |   
+*Architectural Designer - Masterplanning and development in Chongqing, China*
 
 Other Experiences
 -----------------
 
-**Educating Reena Project** Malawi | November 2015 - Present |
+**Educating Reena Project** Malawi & London | November 2015 - Present |
 
 *Volunteer project coordinator on behalf of Climate Connected Benefit Society for the campaign that helps secondary school girls get education in flood prone areas of southern Malawi*
 
 **Shelter Associates** Pune, India | 2013 |
 
-*Volunteer Consultant - Produced short film['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1) promoting a city-wide approach to slum rehabilitation*  
+*Volunteer Consultant (who did everything) - Produced and shot short film['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1) promoting a city-wide approach to slum rehabilitation.  Also designed visual aids for women's workshop, built models for community centre, inspected construction site, and represented the NGO at UN Sanitation Hackathon held in Pune*
 
 **Founder of Secret Kitchens** | 2014 to present |
-*[Secret Kitchens](http://secretkitchens.strikingly.com/) is an experimental project with a social mission to eradicate lonely meals by connecting talented home chefs to curious diners*   
-
+*[Secret Kitchens](http://secretkitchens.strikingly.com/) is a failed experimental project with a social mission to eradicate lonely meals by connecting talented home chefs to curious diners*   
 
 Contact me 
 ----------
