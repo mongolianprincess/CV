@@ -3,11 +3,11 @@ Amy Yang
 
 **Available for work full time as a Junior Developer in London, UK**
 
-Inquisitive and resourceful problem-solver with an articulated eye for details and passion for end user experience and building all things beautiful.  
+Inquisitive and resourceful problem-solver with an articulate eye for detail and passion for UX and building all things beautiful.  
 
 Trained as an architect with 8 years of design and project management experience across 3 continents, I fell in love with the power of code to turn ideas into scalable solutions that can transform people's lives.  
 
-This led me to complete a 12 weeks coding bootcamp at Makers Academy. 
+This led me to complete a 12 weeks coding bootcamp at Makers Academy. Check out my Makers Academy winning [**blog: Mongolian Princess Codes**](http://www.mongolianprincess.net).
 
 I am seeking opportunity as a junior developer to continue learning (and playing ping pong) with a focus on TDD/BDD and software craftmanship.  Eager to share my fresh perspective and contribute to a dynamic team that values collaboration, innovation and open source development. 
 
@@ -26,7 +26,7 @@ Skills
 
 #### Technical Skills and Technologies
 
-| |Strong|Know|Touched on|
+| |Familiar|Know|Touched on|
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, Javascript|CSS3, HTML5, jQuery|Cylon.js|
 |Databases/ORMS|PostGresQL, DataMapper|ActiveRecord|Firebase|                 |
@@ -36,14 +36,15 @@ Skills
 
 #### Project Management
 
-While at Kearns Mancini Architects, I completed the interior fit-out of four [Bank of Montreal retail branches](http://kmai.com/projects/bank-of-montreal-250-yonge-street-office) from design conception to project completion, leading consultant team coordination to meet client budget and deadline. 
+- While at Kearns Mancini Architects, I completed the interior fit-out of four [Bank of Montreal retail branches](http://kmai.com/projects/bank-of-montreal-250-yonge-street-office) from design conception to project completion, leading consultant team coordination to meet client budget and deadline. 
+- Volunteer project coordinator using Asana on behalf of Climate Connected Benefit Society for the campaign that helps secondary school girls get education in flood prone areas of southern Malawi. 
 
 #### Design & Storytelling
 
 - Experience in visual and narrative design using photography, Adobe Photoshop, Illustrator & Indesign & video eiding softwares. 
-- Produced, shot and direct short film ['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1)
-- Illustrative marketing brochure on the history of Dixon House.
-- 2D/3D visualisation softwares including AutoCad, Revit, Vectorworks and Sketchup. Click [here](https://drive.google.com/file/d/0B2-rMJ4iqdtfVjlGZlhyOXowdHc/view?usp=sharing) to view a sample of design portfolio. 
+- Produced, shot and directed short film ['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1)
+- Illustrative marketing brochure on the history of Dixon House
+- 2D/3D visualisation to render ideas visible.  Softwares including AutoCad, Revit, Vectorworks and Sketchup. Click [here](https://drive.google.com/file/d/0B2-rMJ4iqdtfVjlGZlhyOXowdHc/view?usp=sharing) to view a sample of design portfolio. 
 
 Education
 ---------
@@ -63,7 +64,6 @@ Education
 - Bachelor of Architecture (2001-2006)
 
 - Master thesis titled ["A Portrait of Porta Portese"](https://uwspace.uwaterloo.ca/handle/10012/4361?show=full) that investigated an informally self-organized street market, Porta Portese, in Rome, Italy where spatial, social and cultural dynamics of this informal street market is mapped out as an event architecture of the city
-
 
 Work Experience
 ----------------
@@ -88,7 +88,7 @@ Other Experiences
 
 **Educating Reena Project** Malawi & London | November 2015 - Present |
 
-*Volunteer project coordinator on behalf of Climate Connected Benefit Society for the campaign that helps secondary school girls get education in flood prone areas of southern Malawi*
+*Volunteer project coordinator on behalf of Climate Connected Benefit Society for the campaign that helps secondary school girls get education in flood prone areas of southern Malawi. Coordinated Educating Reena hackathon workshop for University of Greenwich Logistic Master's students in London.*
 
 **Shelter Associates** Pune, India | 2013 |
 
@@ -99,7 +99,6 @@ Other Experiences
 
 Contact me 
 ----------
-- Email: ayc.yang@gmail.com
 - Twitter: @AycYang
 - [Blog](www.mongolianprincess.net)
 
