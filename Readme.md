@@ -26,7 +26,7 @@ Skills
 
 #### Technical Skills and Technologies
 
-| |Familiar|Know|Touched on|
+| |Comfortable|Familiar|Touched on|
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, Javascript|CSS3, HTML5, jQuery|Cylon.js|
 |Databases/ORMS|PostGresQL, DataMapper|ActiveRecord|Firebase|                 |
