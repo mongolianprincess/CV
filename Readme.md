@@ -7,7 +7,7 @@ Inquisitive and resourceful problem-solver with an articulate eye for detail and
 
 Trained as an architect with 8 years of design and project management experience across 3 continents, I fell in love with the power of code to turn ideas into scalable solutions that can transform people's lives.  
 
-This led me to complete a 12 weeks coding bootcamp at Makers Academy. Check out my Makers Academy winning [**blog: Mongolian Princess Codes**](http://www.mongolianprincess.net).
+This led me to complete a 12 weeks coding bootcamp at Makers Academy. Check out my winning [**blog: Mongolian Princess Codes**](http://www.mongolianprincess.net).
 
 I am seeking opportunity as a junior developer to continue learning (and playing ping pong) with a focus on TDD/BDD and software craftmanship.  Eager to share my fresh perspective and contribute to a dynamic team that values collaboration, innovation and open source development. 
 
@@ -22,7 +22,7 @@ Skills
 
 - **Javascript** | Completed [**Bowling challenge**](https://github.com/mongolianprincess/bowling-challenge) that records scores of a 10 pin bowling game. Super proud of 100% test coverage in Jasmine. 
 
-- **Ruby** | Completed [**Chitter challenge**](https://github.com/mongolianprincess/chitter-challenge) that allows user to post message to the public. Fully tested in Rspec.
+- **Ruby** | Completed [**Airport challenge**](https://github.com/mongolianprincess/airport_challenge) that demonstrates good practice of TDD and SOLID principle. Fully tested in Rspec.
 
 #### Technical Skills and Technologies
 
@@ -41,7 +41,7 @@ Skills
 
 #### Design & Storytelling
 
-- Experience in visual and narrative design using photography, Adobe Photoshop, Illustrator & Indesign & video eiding softwares. 
+- Experience in visual and narrative design using photography, Adobe Photoshop, Illustrator, Indesign & video editing softwares. 
 - Produced, shot and directed short film ['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1)
 - Illustrative marketing brochure on the history of Dixon House
 - 2D/3D visualisation to render ideas visible.  Softwares including AutoCad, Revit, Vectorworks and Sketchup. Click [here](https://drive.google.com/file/d/0B2-rMJ4iqdtfVjlGZlhyOXowdHc/view?usp=sharing) to view a sample of design portfolio. 
