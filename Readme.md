@@ -53,11 +53,11 @@ Skills
 Social Impact Experiences
 -----------------
 
-**Educating Reena Project** Malawi & London | January 2015 - October 2015 |
+**Educating Reena Project** | Malawi & London | January 2015 - October 2015 |
 
 *Volunteer project coordinator on behalf of Climate Connected Benefit Society for the campaign that helps secondary school girls get education in flood prone areas of southern Malawi using m-learning and open source technology. Leveraging my architectural background, I liaised with institutional representatives and organizations to exchange knowledge on building an open source solar powered [mesh wireless network](http://servalproject.org) for wikihuts, setting up a local fab lab, and the design of aquaponics systems for sustainable food source.*
 
-**Shelter Associates** Pune, India | 2013 |
+**Shelter Associates** | Pune, India | 2013 |
 
 *Volunteer Consultant (who did everything) - Produced and shot short film['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1) promoting a city-wide approach to slum rehabilitation.  Also designed visual aids for women's sanitation workshop, designed and built physical models for a community centre, inspected construction site, and represented the NGO at UN Sanitation Hackathon held in Pune*
 
@@ -67,7 +67,7 @@ Social Impact Experiences
 Education
 ---------
 
-#### Makers Academy (October 2015 to January 2016)
+#### Makers Academy | October 2015 to January 2016 |
 
 - Independent learner and problem-solver
 - Pair programming and agile practices
@@ -76,7 +76,7 @@ Education
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Test Driven Development with Rspec, Jasmine, Karma and Phantom
 
-#### University of Waterloo (September 2001 to April 2009)
+#### University of Waterloo | September 2001 to April 2009 |
 
 - Master's in Architecture (2007-2009)
 - Bachelor of Architecture (2001-2006)
