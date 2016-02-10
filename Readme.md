@@ -16,7 +16,7 @@ Skills
 
 #### Web Developer
 
-- **Internet of Things** | Built [**Just Ballz**](https://github.com/mongolianprincess/just_ballz), a native app for my final project at Makers Academy that allows user to control the movement of a robotic [Sphero](http://www.sphero.com/) with hand gestures using [Leap Motion](https://www.leapmotion.com/) device.  Built in Javascript/C+ with Angular.js/CSS3/HTML front end, tested in Karma. To make it accessible to first time novice users, the app is packaged in node webkit for user to simply download the app to plug and play.  I
+- **Internet of Things** | Built [**Just Ballz**](https://github.com/mongolianprincess/just_ballz), a native app for my final project at Makers Academy that allows user to control the movement of a robotic [Sphero](http://www.sphero.com/) with hand gestures using [Leap Motion](https://www.leapmotion.com/) device.  Built in Javascript/C+ with Angular.js/CSS3/HTML front end, tested in Karma. To make it accessible to first time novice users, the app is packaged in node webkit for user to simply download the app to plug and play.  
 
 - **Mobile** | Developed [**So far**](https://github.com/mongolianprincess/soSafe), a mobile app that sends and receives safety request/ confirmation to loved ones at times of distress. Written in Javascript and built on Ionic framework with front end in Angular.js/CSS3/HTML and Firebase.
 
