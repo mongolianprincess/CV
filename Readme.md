@@ -55,7 +55,7 @@ Social Impact Experiences
 
 **Educating Reena Project** Malawi & London | January 2015 - October 2015 |
 
-*Volunteer project coordinator on behalf of Climate Connected Benefit Society for the campaign that helps secondary school girls get education in flood prone areas of southern Malawi using m-learning and open source technology. Leveraging my architectural background, I liaised with institutional representatives and organizations to exchange knowledge on building an open source solar powered [mesh wireless network](http://servalproject.org)for wikihuts, setting up a local fab lab, and the design of aquaponics systems for sustainable food source.*
+*Volunteer project coordinator on behalf of Climate Connected Benefit Society for the campaign that helps secondary school girls get education in flood prone areas of southern Malawi using m-learning and open source technology. Leveraging my architectural background, I liaised with institutional representatives and organizations to exchange knowledge on building an open source solar powered [mesh wireless network](http://servalproject.org) for wikihuts, setting up a local fab lab, and the design of aquaponics systems for sustainable food source.*
 
 **Shelter Associates** Pune, India | 2013 |
 
