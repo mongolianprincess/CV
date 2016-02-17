@@ -34,7 +34,7 @@ Skills
 
 - Experience in visual and narrative design using photography, manual drafting, Adobe Photoshop, Illustrator, Indesign & video editing softwares.  
 
-- Directed, produced, shot and edited advocacy short film for slum rehabilitation NGO in India ['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1)
+- Directed, produced, shot and edited advocacy short film for slum rehabilitation NGO in India ['Shelter Associates:Inclusive Planning for the Urban Poor'](https://www.youtube.com/watch?v=T0TRgkLwpVA)
 
 - Illustrative marketing brochure on the history of Dixon House, a grade II listed 6000sqm office redevelopment in the City.
 
