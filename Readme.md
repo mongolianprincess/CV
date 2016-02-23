@@ -3,26 +3,26 @@ Amy Yang
 
 **Available for work full time as a Junior Developer in London, UK**
 
-Inquisitive and resourceful problem-solver with an articulate eye for detail and passion for building all things beautiful.  
+Inquisitive and resourceful problem-solver with an articulate eye for detail.  I am passionate about social entrepreneurship and building a knowledge sharing community.  
 
 Having trained as an architect with 8 years of design and project management experience across 3 continents, I fell in love with the power of technology to turn ideas into scalable solutions that can disruptively transform people's lives, especially those at the bottom of the pyramid. 
 
 This led me to complete a 12 weeks coding bootcamp at Makers Academy. Check out my winning blog from Makers Academy blogging competition [**Mongolian Princess Codes**](http://www.mongolianprincess.net).
 
-I am seeking opportunity as a junior developer to continue learning and bridging the gap between design and software engineering with a focus on TDD/BDD and software craftmanship.  Eager to share my fresh perspective and contribute to a dynamic team that values collaboration, innovation and open source development with a strong social mission.
+I am seeking opportunity as a junior developer to continue learning and bridging the gap between design and software engineering with a focus on TDD/BDD and software craftmanship.  Eager to share my fresh perspective and contribute to a dynamic team that values collaboration, innovation and open source development.
 
 Skills
 ------
 
 #### Web Developer
 
-- **Internet of Things** | Built [**Just Ballz**](https://github.com/mongolianprincess/just_ballz), a native app for my final project at Makers Academy that allows user to control the movement of a robotic [Sphero](http://www.sphero.com/) with hand gestures using [Leap Motion](https://www.leapmotion.com/) device.  Built in Javascript/C+ with Angular.js/CSS3/HTML front end, tested in Karma. To make it accessible to first time novice users, the app is packaged in node webkit for user to simply download the app to plug and play.  
+- **Internet of Things** | Built [**Just Ballz**](https://github.com/mongolianprincess/just_ballz), a native app for my final project at Makers Academy in a gropu of 5 that allows user to control the movement of a robotic [Sphero](http://www.sphero.com/) with hand gestures using [Leap Motion](https://www.leapmotion.com/) device.  Built in Javascript/C+ with Angular.js/CSS3/HTML front end, tested in Karma. To make it accessible to first time novice users, the app is packaged in node webkit to enable user to simply download the app to plug and play.  
 
-- **Mobile** | Developed [**So Safe**](https://github.com/mongolianprincess/soSafe), a mobile app that sends and receives safety request/ confirmation to loved ones at times of distress. Written in Javascript and built on Ionic framework with front end in Angular.js/CSS3/HTML and Firebase.
+- **Mobile App** | Developed [**So Safe**](https://github.com/mongolianprincess/soSafe), a mobile app that sends and receives safety request/ confirmation to loved ones at times of distress. Written in Javascript and built on Ionic framework with front end in Angular.js/CSS3/HTML and Firebase. 
 
-- **Javascript** | Completed [**Bowling challenge**](https://github.com/mongolianprincess/bowling-challenge) that records scores of a 10 pin bowling game. Super proud of 100% test coverage in Jasmine.
+- **Javascript** | Completed [**Bowling challenge**](https://github.com/mongolianprincess/bowling-challenge), a program that records the scores of a 10 pin bowling game. I am very proud of 100% test coverage in Jasmine.
 
-- **Ruby** | Completed [**Airport challenge**](https://github.com/mongolianprincess/airport_challenge) that demonstrates good practice of TDD and SOLID principle. Fully tested in Rspec.
+- **Ruby** | Completed [**Airport challenge**](https://github.com/mongolianprincess/airport_challenge), that demonstrates good practice of TDD and understanding of object oriented programming and SOLID principle. Fully tested in Rspec.
 
 #### Project Management
 
