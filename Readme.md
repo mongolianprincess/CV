@@ -44,13 +44,13 @@ Community engagement
 - volunteer community organiser in curating tech talks and workshops serving all female and non-binary engineers*
 
 ***Socrates softwarecrafter open space*** | Europe | 2017-2020 |
-- contributed to open space in running team bilding workshop, hosting remote first best practices*
-
-***Code bar mentor*** | London, UK | 2017 |
-- volunteer to be a programming coach in an inclusive environment that empowers minority groups in tech
+- contributed to open space in running team bilding workshop, remote first best practices, mental health first aid
 
 ***Hour of code facilitator*** | London, UK | 2018 |
 - facilitated *Hour of code* to 200 pupils at Croydon Primary School
+
+***Code bar mentor*** | London, UK | 2017 |
+- volunteer to be a programming coach in an inclusive environment that empowers minority groups in tech
 
 Social Impact Experiences
 -----------------
