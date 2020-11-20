@@ -1,7 +1,7 @@
 Amy Yang
 ===========
 
-**Available for work full time as full stack software engineer remotely (Vancouver, Canada)**
+**Available for work full time as Javascript full stack software engineer remotely (Vancouver, Canada)**
 
 Inquisitive and resourceful problem-solver with an articulate eye for detail.  Having trained as an architect, I fell in love with the power of technology to turn ideas into scalable solutions that can disruptively transform people's lives. I am passionate about making sustainable software (simplicity over complexity) and building a knowledge sharing community.
 
@@ -18,11 +18,10 @@ Work Experience and projects
 
 - Team group failed new product (2018 - 09/2019) : MVP agile iteration, user testing, front end best practices and architecture, contributed to Tes open source library seguir. *node, ES6, cassandra, mongodb, rabbitmq, react*
 
-- Tes rebranding (2017 - 2018) : enhanced micro-service front end architecutre.  Collaborated with designers to build standardised style / component library, and later evangelised new rebrand front-end practices and responsive  amongst distributed enginering team. *node, templating library, built tools, sass, css, react, storybook, babel*
+- Tes rebranding (2017 - 2018) : enhanced micro-service front end architecutre.  Collaborated with designers to build standardised style / component library, and later evangelised new rebrand front-end practices and responsive  amongst distributed enginering team. *vanilla javascript, templating library, built tools, sass, css, react, storybook, babel*
 
 **Fletcher Priest Architects** | London, UK | 2005 to 2006 | 2013 - 2015 |
 *Project Architect - Worked on 14 million 6000sqm office refurbishment, Dixon House, in the city of London. Organized office Pecha Kucha talks to encourage discussion and knowledge exchange between teams*
-
 
 Skills
 ------
@@ -41,7 +40,7 @@ Community engagement
 -----------------
 
 ***Ladies of Code*** | London, UK | 2016-2018 |
-- volunteer community organiser in curating tech talks and workshops serving all female and non-binary engineers*
+- volunteer community organiser in curating tech talks and workshops serving all female and non-binary engineers in the tech community*
 
 ***Socrates softwarecrafter open space*** | Europe | 2017-2020 |
 - contributed to open space in running team bilding workshop, remote first best practices, mental health first aid
@@ -57,11 +56,11 @@ Social Impact Experiences
 
 **Educating Reena Project** | Malawi & London | January 2015 - October 2015 |
 
-*Volunteer project coordinator* on behalf of Climate Connected Benefit Society for the campaign that helps secondary school girls get education in flood prone areas of southern Malawi using m-learning and open source technology. Leveraging my architectural background, I liaised with institutional representatives and organizations to exchange knowledge on building an open source solar powered [mesh wireless network](http://servalproject.org) for wikihuts, setting up a local fab lab, and the design of aquaponics systems for sustainable food source.
+*Volunteer project coordinator* on behalf of Climate Connected Benefit Society for the campaign that helps secondary school girls get education in flood prone areas of southern Malawi using m-learning and open source technology.
 
 **Shelter Associates** | Pune, India | 2013 |
 
-*Volunteer Consultant (who did everything)* - Produced and shot short film['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1) promoting a city-wide approach to slum rehabilitation.  Also designed visual aids for women's sanitation workshop, designed and built physical models for a community centre, inspected construction site, and represented the NGO at UN Sanitation Hackathon held in Pune
+*Volunteer Consultant (who did everything)* - Produced and shot short film['Shelter Associates:Inclusive Planning for the Urban Poor'](http://shelter-associates.org/shelter-associates-inclusive-planning-urban-poor-1) promoting a city-wide approach to slum rehabilitation.
 
 Education
 ---------
