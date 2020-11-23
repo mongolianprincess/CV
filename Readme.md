@@ -7,7 +7,7 @@ Inquisitive and resourceful problem-solver with an articulate eye for detail.  H
 
 I am seeking opportunity as a full stack software engineer to continue learning and making everyday life a tiny bit better via tech with a people centric focus on softweare craftpersonship.  Eager to share my fresh perspective and contribute to a dynamic team that values collaboration, innovation and open source development.
 
-Work Experience and projects
+Work Experience
 ----------------
 
 **Tes Global** | London, UK | 2016 - present | *Softweare engineer*
@@ -16,7 +16,7 @@ Work Experience and projects
 
 - SEO optimisation (09/2019 - 01/2020) : improved SEO search ranking by collaborating with designers, SEO specialist and marketing by implementing internationalised SEO block in Tes homepage alongside performance monitoring. *node, ES6, react, webpack, image optimisation, responsive design*
 
-- Launched social network product (01/2018 - 09/2019) : Experience in building a failed social network product to increate teacher connectivity using MVP agile iterations and user testings.  Developed service architecture pattern and front end best practices. Contributed to Tes open source library [seguir, an API for simple social network concept with cassandra for back-end](https://github.com/tes/seguir). *node, ES6, cassandra, mongodb, rabbitmq, react*
+- Launched social network product (01/2018 - 09/2019) : Experience in building a failed social network product to increate teacher connectivity using MVP agile iterations and user testings.  Developed service architecture pattern and front end best practices. Contributed to Tes open source library [seguir](https://github.com/tes/seguir) - an API for simple social network concept with cassandra for back-end. *node, ES6, cassandra, mongodb, rabbitmq, react*
 
 - Tes rebranding (2017 - 2018) : enhanced micro-service front end architecutre.  Collaborated with designers to build standardised style / component library, and evangelised new rebrand front-end practices and responsive design amongst distributed enginering team. *vanilla javascript, templating library, built tools, sass, css, react, storybook, babel*
 
@@ -29,8 +29,8 @@ People Skills
 
 ### leadership
 
-- Led in creating growth driven spaces for collaborative learning and support as examplified in promoting / leverageing support for female engineers group and junior study groups at Tes engineering
-- Being the glue in cross-functionatl team collaboration
+- Led in creating growth driven spaces for collaborative learning and support as examplified in promoting / leverageing support for female engineers group and coaching junior study groups at Tes engineering
+- Being the glue in cross-functionatl team collaboration, always trying new ways to improve cross-timezone asynchronous remote-first practices to connect ditributed teams
 
 #### Project Management
 
