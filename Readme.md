@@ -27,7 +27,7 @@ Work Experience
 People Skills
 ------
 
-### leadership
+#### Leadership in tech
 
 - Led in creating growth driven spaces for collaborative learning and support as examplified in promoting / leverageing support for female engineers group and coaching junior study groups at Tes engineering
 - Being the glue in cross-functionatl team collaboration, always trying new ways to improve cross-timezone asynchronous remote-first practices to connect ditributed teams
@@ -90,4 +90,5 @@ Say hello
 ----------
 - Twitter: @AycYang
 - [Read about my profile at Tes Engineering](https://engineering.tes.com/profile/amy-yang-profile)
-- [Blog](www.mongolianprincess.net)
+- [have a listen to me being interviewed ]
+- [Blog written during Maker's Academy coding bootcamp](www.mongolianprincess.net)
