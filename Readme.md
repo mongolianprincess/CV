@@ -1,24 +1,24 @@
 Amy Yang
 ===========
 
-**Available for work full time as Javascript full stack software engineer remotely (Vancouver, Canada)**
+**Available for work full time as Javascript full stack software engineer remotely (Vancouver, Canada UTC-8:00)**
 
 Inquisitive and resourceful problem-solver with an articulate eye for detail.  Having trained as an architect, I fell in love with the power of technology to turn ideas into scalable solutions that can transform people's lives. I am passionate about making sustainable software (simplicity over complexity) and building a diversified knowledge sharing community.
 
-I am seeking opportunity as a full stack software engineer to continue learning and making everyday life a tiny bit better via tech with a people centric focus on software craftspersonship.  Eager to share my fresh perspective and contribute to a dynamic team that values collaboration, innovation and open source development.
+I am seeking opportunity as a full stack software engineer to continue learning and making everyday life a tiny bit better via tech with a people centric focus on software crafting.  I am eager to share my fresh perspective and contribute to a dynamic team that values collaboration, innovation and creating open spaces for .
 
 Work Experience
 ----------------
 
 **Tes Global** | London, UK | 2016 - present | *Software engineer*
 
-- Staff pulse well-being survey (06/2020 - 12/2020) : Ownership in delivering user centric product (annual 350K subscription revenue) to enable school leaders to send out anonymised surveys for staff well being. Responsible for refactoring domain driven key context by scaffolding through entire layers of the application from postgres database, sequelize, node.js server, to react frontend components
+- Staff pulse well-being survey (06/2020 - 12/2020) : Ownership in delivering user centric product (annual 350K subscription revenue) to enable school leaders to send out anonymized surveys for staff well being. Responsible for refactoring domain driven key context by scaffolding through entire layers of the application from *postgres database, sequelize, node.js server, to react frontend components*
 
-- SEO optimisation (09/2019 - 01/2020) : improved SEO search ranking by collaborating with designers, SEO specialist and marketing by implementing internationalised SEO block in Tes homepage alongside performance monitoring. *node, ES6, react, webpack, image optimisation, responsive design*
+- SEO optimization (09/2019 - 01/2020) : improved SEO search ranking by collaborating with designers, SEO specialist and marketing by implementing internationalized SEO block in Tes homepage alongside performance monitoring. *node, ES6, react, webpack, image optimization, responsive design*
 
 - Launched social network product (01/2018 - 09/2019) : Experience in building a failed social network product to increase teacher connectivity using MVP agile iterations and user testings.  Developed service architecture pattern and frontend best practices. Contributed to Tes open source library [seguir](https://github.com/tes/seguir) - an API for simple social network concept with cassandra for back-end. *node, ES6, cassandra, mongodb, rabbitmq, react*
 
-- Tes rebranding (2017 - 2018) : enhanced micro-service frontend architecture.  Collaborated with designers to build standardised style / component library, and evangelised new rebrand front-end practices and responsive design amongst distributed engineering team. *vanilla javascript, templating library, built tools, sass, css, react, storybook, babel*
+- Tes re-branding (2017 - 2018) : enhanced micro-service frontend architecture.  Collaborated with designers to build standardized style / component library, and evangelized new re-brand frontend practices and responsive design amongst distributed engineering team. *vanilla javascript, templating library, built tools, sass, css, react, storybook, babel*
 
 **Fletcher Priest Architects** | London, UK | 2005 to 2006 | 2013 - 2015 | *Project Architect*
 
