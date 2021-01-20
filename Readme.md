@@ -12,13 +12,13 @@ Work Experience
 
 **Tes Global** | London, UK | 2016 - present | *Software engineer*
 
-- Staff pulse well-being survey (06/2020 - 12/2020) : Ownership in delivering user centric product (annual 350K subscription revenue) to enable school leaders to send out anonymized surveys for staff well being. Responsible for refactoring domain driven key context by scaffolding through entire layers of the application from *postgres database, sequelize, node.js server, to react frontend components*
+- Staff pulse well-being survey (06/2020 - 12/2020) : Ownership in delivering user centric product (annual 350K subscription revenue) to enable school leaders to send out anonymized surveys for staff well being. Responsible for refactoring domain driven key context by scaffolding through entire layers of the application from *postgres database, sequelize, node.js server, to react front-end components*
 
 - SEO optimization (09/2019 - 01/2020) : improved SEO search ranking by collaborating with designers, SEO specialist and marketing by implementing internationalized SEO block in Tes homepage alongside performance monitoring. *node, ES6, react, webpack, image optimization, responsive design*
 
-- Launched social network product (01/2018 - 09/2019) : Experience in building a failed social network product to increase teacher connectivity using MVP agile iterations and user testings.  Developed service architecture pattern and frontend best practices. Contributed to Tes open source library [seguir](https://github.com/tes/seguir) - an API for simple social network concept with cassandra for back-end. *node, ES6, cassandra, mongodb, rabbitmq, react*
+- Launched social network product (01/2018 - 09/2019) : Experience in building a failed social network product to increase teacher connectivity using MVP agile iterations and user testings.  Developed service architecture pattern and front-end best practices. Contributed to Tes open source library [seguir](https://github.com/tes/seguir) - an API for simple social network concept with cassandra for back-end. *node, ES6, cassandra, mongodb, rabbitmq, react*
 
-- Tes re-branding (2017 - 2018) : enhanced micro-service frontend architecture.  Collaborated with designers to build standardized style / component library, and evangelized new re-brand frontend practices and responsive design amongst distributed engineering team. *vanilla javascript, templating library, built tools, sass, css, react, storybook, babel*
+- Tes re-branding (2017 - 2018) : enhanced micro-service front-end architecture.  Collaborated with designers to build standardized style / component library, and evangelized new re-brand front-end practices and responsive design amongst distributed engineering team. *vanilla javascript, templating library, built tools, sass, css, react, storybook, babel*
 
 **Fletcher Priest Architects** | London, UK | 2005 to 2006 | 2013 - 2015 | *Project Architect*
 
