@@ -5,7 +5,7 @@ Amy Yang
 
 Inquisitive and resourceful problem-solver with an articulate eye for detail.  Having trained as an architect, I fell in love with the power of technology to turn ideas into scalable solutions that can transform people's lives. I am passionate about making sustainable software (simplicity over complexity) and building a diversified knowledge sharing community.
 
-I am seeking opportunity as a full stack software engineer to continue learning and making everyday life a tiny bit better via tech with a people centric focus on software crafting.  I am eager to share my fresh perspective and contribute to a dynamic team that values collaboration, innovation and creating open spaces for .
+I am seeking opportunity as a full stack software engineer to continue learning and making everyday life a tiny bit better via tech with a people centric focus on software crafting.  I am eager to share my fresh perspective and contribute to a dynamic team that values collaboration and innovation.
 
 Work Experience
 ----------------
